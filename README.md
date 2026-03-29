@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Candace 👋
 
-<!--
-**cs-gwynn/cs-gwynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student focused on SOC analysis, Linux systems, and hands-on lab environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+- Gwynnflix – Self-Hosted Media Server
+- Home SOC Lab (In Progress)
+
+---
+
+## 🧠 Skills
+- Linux system administration  
+- Docker & containerization  
+- Networking fundamentals  
+- Log analysis and troubleshooting  
+
+---
+
+## 🎯 Goal
+To transition into a SOC Analyst or Cybersecurity Analyst role using hands-on lab experience and real-world system deployment.
